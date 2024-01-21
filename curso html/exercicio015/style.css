@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @charset "UTF-8";
 
 body{
@@ -14,4 +15,22 @@ body{
   }
   h2{
     color: darkgreen;
+=======
+@charset "UTF-8";
+
+body{
+    background-color: blanchedalmond;
+    font-size: 20px;
+  }
+  h1{
+    color: rgb(175, 102, 244);
+    background-color: rgb(72, 72, 152);
+    font-size: 1.5em;
+  }
+  p{
+    text-align: justify;
+  }
+  h2{
+    color: darkgreen;
+>>>>>>> 8d2f15a4f4c76d1a0080bbffd20d1fb86eaf069c
   }
